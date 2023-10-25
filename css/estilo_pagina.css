@@ -6,11 +6,10 @@ p {
 }
 
 h1{
-    text-align: center;
-    font-size: 50px;
+    text-align: left;
+    font-size: 100px;
     color: #30dbe0;
-    border: 3px solid #a000fd ;
-    font-family:'Times New Roman', Times, serif
+    font-family:'Helvetica', Times, serif
 }
 
 
@@ -41,9 +40,10 @@ td {
     font-size: 20px;
 }
 
-table {
-    color: #db6e24;
-    margin:0 auto
+table{
+    text-align: left;
+    color:rgb(54, 39, 255);
+    font-size:100;
 }
 
 h4{
