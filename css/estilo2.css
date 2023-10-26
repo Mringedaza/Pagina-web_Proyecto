@@ -19,7 +19,7 @@ td {
 }
 
 table{
-    
+    border: #ffffff;
     text-align: left;
     color:rgb(255, 255, 255);
     font-size:100;
@@ -44,6 +44,16 @@ div{
 }
 
 div:hover {
-    background-color: aqua;
+    background-color: #0084ff;
     transform: scale(1.02);
 } 
+
+tr{
+    text-align: center;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}

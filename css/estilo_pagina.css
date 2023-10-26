@@ -19,13 +19,7 @@ h3{
     font-size: 20px;
     text-align: center;
     font-family:'Times New Roman', Times, serif
-}
-
-html {
-    background-color:#000000;
-    font-family:'Times New Roman', Times, serif
-}
-
+}   
 body {
     width: 1300px;
     margin: 0 auto;
@@ -41,7 +35,7 @@ td {
 }
 
 table{
-    
+    border: #ffffff;
     text-align: left;
     color:rgb(255, 255, 255);
     font-size:100;
@@ -54,13 +48,22 @@ h4{
 }
 
 a{
-    transition: background-color 0.3s, transform 0.3s;
-    border: #ffffff;
+    color: #ffffff;
     font-size: 20px;
-    color:azure
+    transition: background-color 0.3s, transform 0.3s;
+    
     
 }
 a:hover{
-    background-color: #000000;
-    transform: scale(1.05);
+    background-color: #6f01ff;
+    transform: scale(1.1);
+}
+
+h5{
+    font-size: 20px;
+
+}
+
+html{
+    background-color:#000000;
 }
